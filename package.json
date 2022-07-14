@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-clipboard2",
-  "version": "0.2.1",
+  "name": "@dargmuesli/nuxt-clipboard2",
+  "version": "0.2.2",
   "license": "MIT",
   "keywords": [
     "copy",
@@ -10,13 +10,12 @@
     "vue-clipboard2"
   ],
   "main": "index.js",
-  "repository": "https://github.com/webcore-it/nuxt-clipboard2",
-  "homepage": "https://github.com/webcore-it/nuxt-clipboard2",
+  "repository": "https://github.com/dargmuesli/nuxt-clipboard2",
   "author": "Web Core IT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "vue-clipboard2": "0.2.1"
+    "vue-clipboard2": "0.3.3"
   }
 }
